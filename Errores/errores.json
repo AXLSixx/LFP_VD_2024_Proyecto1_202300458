@@ -1,0 +1,22 @@
+{
+  "errores": [
+    {
+      "No": 1,
+      "descripcion": {
+        "lexema": "asdklfjasñlkdfj325",
+        "tipo": "error lexico",
+        "columna": 0,
+        "fila": 4
+      }
+    },
+    {
+      "No": 2,
+      "descripcion": {
+        "lexema": "sumfadsfsaa",
+        "tipo": "error lexico",
+        "columna": 2,
+        "fila": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "errores": [
+    {
+      "No": 1,
+      "descripcion": {
+        "lexema": "sumfadsfsaa",
+        "tipo": "error lexico",
+        "columna": 3,
+        "fila": 4
+      }
+    }
+  ]
+}
